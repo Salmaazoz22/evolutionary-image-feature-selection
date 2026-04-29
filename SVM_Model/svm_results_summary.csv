@@ -1,0 +1,9 @@
+Metric,Value
+Test Accuracy,0.8308
+Weighted F1-Score,0.8293
+CV Mean Accuracy,0.8315
+CV Std,0.0070
+Total Features (PCA),700
+Kernel,RBF
+C,1.0
+Gamma,scale
