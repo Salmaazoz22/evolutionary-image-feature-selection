@@ -1,0 +1,3 @@
+experiment_name,mutation_type,crossover_type,survivor_method,selection_method,accuracy_mean,accuracy_std,fitness_mean,fitness_std,num_features_mean,num_features_std,runtime_mean,runtime_std
+EXP-C_survivor_elitist,bitflip,uniform,elitist,tournament,0.7208244425939275,0.008431107962149149,0.715027712620249,0.007328922080616404,236.0,13.708877902050675,211.43787090778352,11.319968965172185
+EXP-C_survivor_generational,bitflip,uniform,generational,tournament,0.7255124928541099,0.007592873464431099,0.7187945769020322,0.007045394194161417,239.16666666666666,12.675654705861243,209.08380870819093,11.096882339527745

@@ -1,0 +1,3 @@
+experiment_name,mutation_type,crossover_type,survivor_method,selection_method,accuracy_mean,accuracy_std,fitness_mean,fitness_std,num_features_mean,num_features_std,runtime_mean,runtime_std
+EXP-A_mutation_bitflip,bitflip,two_point,elitist,tournament,0.6864671580304177,0.01834886434142107,0.6851347279416619,0.01604885088220835,228.8,13.516409779720846,175.28515728314719,28.914212087885176
+EXP-A_mutation_swap,swap,two_point,elitist,tournament,0.6763686854883065,0.01748100586279564,0.6788937217013806,0.015139596608769797,208.86666666666667,10.772598984873097,166.7619537115097,24.645211222811874
