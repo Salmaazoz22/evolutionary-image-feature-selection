@@ -1,0 +1,3 @@
+experiment_name,transfer_type,topology,inertia_strategy,init_strategy,accuracy_mean,accuracy_std,fitness_mean,fitness_std,num_features_mean,num_features_std,runtime_mean,runtime_std
+EXP-P4_init_sparse,sigmoid,gbest,linear_decay,sparse,0.7143468962728423,0.010517721647345787,0.6994074447407961,0.008330794192810043,304.53333333333336,15.19371214973118,620.107907072703,126.1126983348222
+EXP-P4_init_uniform,sigmoid,gbest,linear_decay,uniform,0.7155514149794905,0.008274767239823799,0.6958962734815419,0.007723131488235758,336.7,12.84562182223967,632.1847277879715,225.9839276687397
